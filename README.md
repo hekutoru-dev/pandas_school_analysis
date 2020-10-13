@@ -73,4 +73,7 @@ Analyze the district-wide standardized test results. In this data we have access
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
+
 # City School Analysis Findings
+
+Clearly, math seems to be tough for most of the students. The comparison between math and reading may be quite complicated, as math is science related it would be bettter to compare it with another sicence related subject. But we can say that sciences like math tend to be more complicated to overall students.
