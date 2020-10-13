@@ -2,6 +2,7 @@
 
 Example school analysis using pandas
 
+Analyze the district-wide standardized test results. In this data we have access to student's math and reading scores, as well as various information on the schools they attend. Here, data is aggregated and showcase obvious trends in school performance.
 
 ### District Summary
 
